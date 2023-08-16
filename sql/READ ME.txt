@@ -1,0 +1,3 @@
+serverName = localhost
+password = ''
+dbName = laptop

@@ -1,0 +1,16 @@
+The website prototype nav button for administrator, let's say it is securely accessed via http://localhost/ITE_232_B6_T5_404_PC_CARTEL/Admin.php. The page contains a form and a table for CRUD presentation, and the database exists on the XAMPP server.
+
+// CREATE
+To create a new product, fill out the form on the page with the necessary information. Images are stored in C:\xampp\htdocs\ITE232_TEAM5_404_PC_CARTEL 2\img.
+
+// READ
+To view existing products, simply view the table on the page, which will display all retrieved information.
+Or you can click the product on the navbar.
+
+// UPDATE
+To update a product's details, click on the "EDIT" button in the table, which will populate the form with the product's current information.
+
+// DELETE
+To delete a product, click on the "DELETE" button in the table, which will prompt a warning alert. Once confirmed, the data will be permanently deleted.
+
+==============ITE_232_B6_T5_404_PC_CARTEL==================
