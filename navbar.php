@@ -92,12 +92,6 @@
           About us
         </a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="Admin.php">
-        <i class="bi bi-file-earmark-lock"></i>
-          Admin
-        </a>
-      </li>
     </ul>
   </div>
 </nav>
